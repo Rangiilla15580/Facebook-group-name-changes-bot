@@ -12,8 +12,8 @@ try {
 }
 
 // ✅ Group Info
-const GROUP_THREAD_ID = "24196335160017473";
-const LOCKED_GROUP_NAME = "🤪 EXIT FUNNY KIDX + TUSHAR BOKA CHUDKE DAFAN 😂";
+const GROUP_THREAD_ID = "1222606893216045";
+const LOCKED_GROUP_NAME = "मुल्लों की फातिमा की गंदी काली चूत () में रघुवीर का लुल्ला मारू";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
 const app = express();
