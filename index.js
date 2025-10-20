@@ -12,7 +12,7 @@ try {
 }
 
 // ✅ Group Info
-const GROUP_THREAD_ID = "1222606893216045";
+const GROUP_THREAD_ID = "684560211364238";
 const LOCKED_GROUP_NAME = "मुल्लों की फातिमा की गंदी काली चूत () में रघुवीर का लुल्ला मारू";
 
 // ✅ Express Server to keep bot alive (for Render or UptimeRobot)
